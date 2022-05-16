@@ -1,68 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [ES] Calendario React 
 
-## Available Scripts
+Aplicación basada en el stack MERN (MongoDB, Express, React y NodeJS). Se trata de  un calendario con registro y login de usuarios, en el cual cada usuario puede ver, tanto sus propios eventos como los del resto de usuarios, además de editar y borrar los eventos creados por uno mismo.
 
-In the project directory, you can run:
+Los usuarios que no se encuentren registrados en el sitio, no podrán acceder a la vista de calendario, sino que tendrán que estar registrados para poder previsualizarla. A las 2 horas desde el inicio de sesión, esta caducará y será necesario volver a logearse.
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+------------
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# [EN] React Calendar
 
-### `yarn build`
+Application based on the MERN stack (MongoDB, Express, React and NodeJS). It is a calendar with user registration and login, in which each user can see both their own events and those of other users, as well as edit and delete events created by oneself.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Users who are not registered on the site will not be able to access the calendar view, but will have to be registered in order to preview it. Two hours after logging in, the session will expire and it will be necessary to log in again.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Images
+**Login**
+![AppScreenshot](https://i.imgur.com/OeZFwba.png)
 
-### `yarn eject`
+**Evento**
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![AppScreenshot](https://i.imgur.com/MA2c4oU.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+**Calendario**
+![AppScreenshot](https://i.imgur.com/xyIFI9O.png)
+![AppScreenshot](https://i.imgur.com/z1YyQrv.png)
+![AppScreenshot](https://i.imgur.com/nPg9d4A.png)
+![AppScreenshot](https://i.imgur.com/V5Pm5sg.png)
